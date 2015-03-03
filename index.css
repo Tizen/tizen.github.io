@@ -1,57 +1,57 @@
-body { text-align: center; font-family: "Verdana", Arial, sans-serif; background-color: #F8F8F8; color: #202020; font-size: 12px }
-h1 { font-family: "Arial"; color: #202020; font-size: 26px; font-weight: normal; margin: 4px }
-h3 { font-family: "Arial"; color: #202020; font-size: 20px; font-weight: normal; margin: 3px }
-h4 { font-family: "Arial"; color: #404040; font-size: 16px; font-weight: normal; margin: 2px }
-h5 { font-family: "Arial"; color: #202020; font-size: 16px; font-weight: normal; margin: 2px }
+body { text-align: center; font-family: "Verdana", Arial, sans-serif; background-color: #000000; color: #CC7079; font-size: 12px }
+h1 { font-family: "Arial"; color: #CC7079; font-size: 26px; font-weight: normal; margin: 4px }
+h3 { font-family: "Arial"; color: #CC7079; font-size: 20px; font-weight: normal; margin: 3px }
+h4 { font-family: "Arial"; color: #CC6A28; font-size: 16px; font-weight: normal; margin: 2px }
+h5 { font-family: "Arial"; color: #CC7079; font-size: 16px; font-weight: normal; margin: 2px }
 table { border: 0px ; padding: 0px; border-spacing: 1px }
 img { border-width: 0px; }
 .ttxt { border: 0px; padding: 2px }
 .tgr,  .tinv { border: 0px }
 .tadj { border-style: none; border-collapse: collapse }
 .tadj td { border: 0px none; padding: 0px }
-.txt1 { font-family: "Verdana"; color: #202020; font-size: 12px; text-align: left }
-.txt2 { font-family: "Verdana"; color: #404040; font-size: 12px; text-align: left }
+.txt1 { font-family: "Verdana"; color: #CC7079; font-size: 12px; text-align: left }
+.txt2 { font-family: "Verdana"; color: #CC6A28; font-size: 12px; text-align: left }
 
-.t1 { font-family: "Verdana"; color: #404040; font-size: 12px; text-align: left; font-weight: bold }
-.t2 { font-family: "Verdana"; color: #202020; font-size: 12px; text-align: left; font-style: normal }
-.t5 { font-family:"Arial"; color:#202020; font-size:12px; text-align:left; font-weight:normal; font-style: italic }
-.t6 { font-family:"Verdana"; color:#202020; font-size:10px; text-align:right; font-style: normal; white-space:nowrap; }
+.t1 { font-family: "Verdana"; color: #000000; font-size: 12px; text-align: left; font-weight: bold }
+.t2 { font-family: "Verdana"; color: #000000; font-size: 12px; text-align: left; font-style: normal }
+.t5 { font-family:"Arial"; color:#000000; font-size:12px; text-align:left; font-weight:normal; font-style: italic }
+.t6 { font-family:"Verdana"; color:#000000; font-size:10px; text-align:right; font-style: normal; white-space:nowrap; }
 .tal { text-align: left }
 .tar { text-align: right }
 .tac { text-align: center }
 
-.s1 { font-family: "Arial"; color: #404040; font-size: 9px; vertical-align: bottom; text-align: center  }
-.s2 { font-family: "Arial"; color: #202020; font-size: 9px; vertical-align: bottom; text-align: center ; border: 0px }
-.s3 { font-family: "Arial"; color: #202020; font-size: 9px; vertical-align: bottom; text-align: center }
-.s4 { font-family: "Verdana"; color: #202020; font-size: 10px; text-align: left }
-.s5 { font-family: "Verdana"; color: #202020; font-size: 10px; text-align: left; border:0px }
+.s1 { font-family: "Arial"; color: #CC6A28; font-size: 9px; vertical-align: bottom; text-align: center  }
+.s2 { font-family: "Arial"; color: #CC7079; font-size: 9px; vertical-align: bottom; text-align: center ; border: 0px }
+.s3 { font-family: "Arial"; color: #000000; font-size: 9px; vertical-align: bottom; text-align: center }
+.s4 { font-family: "Verdana"; color: #000000; font-size: 10px; text-align: left }
+.s5 { font-family: "Verdana"; color: #000000; font-size: 10px; text-align: left; border:0px }
 .sq { font-style: italic }
 .win { font-weight: bold }
-.toc { font-family: "Arial"; color: #404040; font-size: 16px; font-weight: normal; margin: 2px }
-.ra { font-family: "Arial"; color: #404040; font-size: 32px; text-align: center; border-style: solid; border-width: 4px; border-color: #ffffff #000000 #000000 #ffffff; }
-.rn { font-family:"Verdana"; color:#202020;font-size:16px; text-align:left;font-weight:bold; font-style:normal; }
-.rb { border-style:solid;border-width:3px 0px; border-color:#F6F6F6; color:#202020}
-.box { Border: 1px solid #404040 }
+.toc { font-family: "Arial"; color: #CC6A28; font-size: 16px; font-weight: normal; margin: 2px }
+.ra { font-family: "Arial"; color: #000000; font-size: 32px; text-align: center; border-style: solid; border-width: 4px; border-color: #ffffff #000000 #000000 #ffffff; }
+.rn { font-family:"Verdana"; color:#CC7079;font-size:16px; text-align:left;font-weight:bold; font-style:normal; }
+.rb { border-style:solid;border-width:3px 0px; border-color:#AAA683; color:#CC7079}
+.box { Border: 1px solid #000000 }
 .ac { font-family: "Verdana", Arial, sans-serif; color:#000000; font-size: 10px; vertical-align: middle; text-align: center }
-.am { vertical-align: top; Border: 1px solid #202020 }
-.cr { background-color: #F8F8F8; padding: 2px; border-style: outset; border-width: 2px; font-family: Arial, sans-serif; color: #202020; font-size: 12px; vertical-align: middle; text-align: left }
-.ca { background-color: #F8F8F8 }
-.cb { background-color: #F6F6F6 }
-.cc { background-color: #F4F4F4 }
-.cbg { background-color: #F8F8F8 }
-.cn { background-color: #D8D8D8 }
-.cd { background-color: #D8D8D8 }
-.ce { background-color: #D4D4D4 }
-.cf { background-color: #D0D0D0 }
-.cda { background-color: #D7D7D7 }
-.cdb { background-color: #D6D6D6 }
-.cdc { background-color: #D5D5D5 }
-.cea { background-color: #D3D3D3 }
-.ceb { background-color: #D2D2D2 }
-.cec { background-color: #D1D1D1 }
-.cfa { background-color: #D2D2D2 }
-.cfb { background-color: #D4D4D4 }
-.cfc { background-color: #D6D6D6 }
+.am { vertical-align: top; Border: 1px solid #CC7079 }
+.cr { background-color: #000000; padding: 2px; border-style: outset; border-width: 2px; font-family: Arial, sans-serif; color: #CC7079; font-size: 12px; vertical-align: middle; text-align: left }
+.ca { background-color: #AA9383 }
+.cb { background-color: #AAA683 }
+.cc { background-color: #9BAA83 }
+.cbg { background-color: #000000 }
+.cn { background-color: #AAA5A6 }
+.cd { background-color: #9E9B99 }
+.ce { background-color: #9E9D99 }
+.cf { background-color: #9C9E99 }
+.cda { background-color: #9E9B99 }
+.cdb { background-color: #9E9C99 }
+.cdc { background-color: #9E9C99 }
+.cea { background-color: #9D9D99 }
+.ceb { background-color: #9D9D99 }
+.cec { background-color: #9C9D99 }
+.cfa { background-color: #9C9D99 }
+.cfb { background-color: #9D9C99 }
+.cfc { background-color: #9D9B99 }
 .cs0 { background-color: #A0A0A0 }
 .cs1 { background-color: #FF0000 }
 .cs2 { background-color: #FFFF00 }
@@ -65,4 +65,4 @@ img { border-width: 0px; }
 .cs2a { background-color: #7FFF00 }
 .cs3a { background-color: #00FF7F }
 .cs4a { background-color: #007FFF }
-A { color: #202020 }
+A { color: #CC7079 }
